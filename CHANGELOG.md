@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.0.10 (2023-09-18)
+
+Full Changelog: [v0.0.9...v0.0.10](https://github.com/DefinitelyATestOrg/test-1-repo-1/compare/v0.0.9...v0.0.10)
+
+### Features
+
+* add file release 10 commit 1 ([5b2512e](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/5b2512e9dfd09ab5a2c0ca3eefbe95188b3e612f))
+* add file release 10 commit 2 ([1bcfb43](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/1bcfb43ab9f8d1bbe42e5d10a96e817ceb7c476a))
+* add file release 10 commit 3 ([3a5f569](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/3a5f5691f7c4ba5f4c05f52a404907c334acad31))
+* add file release 10 commit 4 ([1dd47ac](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/1dd47ac56fd6c2dc038d91761264cc7f2d0c68f9))
+* add file release 10 commit 5 ([b50983b](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/b50983bc432b92909cc10336b01096bd9fec5bf5))
+* add file release 10 commit 6 ([9ed7302](https://github.com/DefinitelyATestOrg/test-1-repo-1/commit/9ed730298c706dfc2e48484b4ec4cb382c866cd4))
+
 ## 0.0.9 (2023-09-18)
 
 Full Changelog: [v0.0.8...v0.0.9](https://github.com/DefinitelyATestOrg/test-1-repo-1/compare/v0.0.8...v0.0.9)
